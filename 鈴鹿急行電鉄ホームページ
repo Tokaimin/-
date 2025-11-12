@@ -9,5 +9,9 @@ meta name="description" content="鈴鹿急行電鉄のホームページです�
 </head>
 <body>
 <h1>鈴鹿急行電鉄ホームページ</h1>
+p {運行情報 
+  color: orange;
+  font-size: 20px;
+}
 </body>
 </html>
